@@ -1,4 +1,4 @@
-# ☁️ AWS EC2 – Launch a Virtual Machine (ElevateLab Task 2)
+# AWS EC2 – Launch a Virtual Machine (ElevateLab Task 2)
 
 ## Objective
 To understand **how cloud virtual machines work** by creating, configuring, and connecting to a **cloud-based Ubuntu instance** on AWS EC2.  
@@ -77,7 +77,7 @@ ssh -i elevatelab-key.pem ubuntu@<Your-Public-IP>
 ```
 
  **Screenshot:**  
-![SSH-Connection](Asstes/SSH-Connection.png)
+![SSH Connection](Assets/SSH-Connection.png)
 
 ---
 
@@ -92,4 +92,4 @@ df -h         # Disk space usage
 ```
 
  **Screenshot:** 
- ![Linux-Output](Assets/Linux-Output.png)
+ ![Linux Output](Assets/Linux-Output.png)
